@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tonanzi-Samuele
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python and JS
-- 💞️ I’m looking to collaborate on nonsoancoracosaGPT
+- 💞️ I’m looking to collaborate on flappy_DIV (js version + svelte version)
 - 📫 How to reach me ...
 - 😄 Pronouns: ce/dro?
 - ⚡ Fun fact: gogogo?
