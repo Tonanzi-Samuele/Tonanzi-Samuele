@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tonanzi-Samuele
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python and JS
-- 💞️ I’m looking to collaborate on ArchAde (tapper) (in python.pygame)
+- 💞️ I’m looking to collaborate on undefined
 - 📫 How to reach me ...
 - 😄 Pronouns: ce/dro?
 - ⚡ Fun fact: gogogo?
