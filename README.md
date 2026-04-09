@@ -2,6 +2,4 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python and JS
 - 💞️ I’m looking to collaborate on undefined
-- 📫 How to reach me ...
-- 😄 Pronouns: ce/dro?
-- ⚡ Fun fact: gogogo?
+- 📫 How to reach me: Here's my email! samu071707@gmail.com
