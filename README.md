@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tonanzi-Samuele
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python and JS
+- 👀 I’m interested in Programming and Networking
+- 🌱 I’m currently learning working for IridesGroup 
 - 💞️ I’m looking to collaborate on undefined
-- 📫 How to reach me: Here's my email! samu071707@gmail.com
+- 📫 How to reach me: Here's my email! samu071707@gmail.com 
